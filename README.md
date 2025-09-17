@@ -2,6 +2,8 @@
 
 A beginner HTML website that provides a collection of recipes built to practice basic HTML structure, links, images, and lists.
 
+Can be accessed at [https://azhang03.github.io/recipes-html-site/](https://azhang03.github.io/recipes-html-site/)
+
 ## Features
 
 - **Home Page (`index.html`)**
